@@ -14,6 +14,8 @@ The motions are recorded in a csv file, and a graph is plotted to graph.html.
 
 ## Dependencies
 - bokeh
+- OpenCV
+- Pandas
 
 ## Screenshots
 
