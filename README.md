@@ -1,6 +1,7 @@
 # TABLE OF CONTENT
 
 * [Project description](#project-description)
+* [Libraries](#libraries)
 * [Screenshots](#screenshots)
 
 
@@ -11,7 +12,8 @@ This project opens webcam and detects motion.
 
 The motions are recorded in a csv file, and a graph is plotted to graph.html.
 
-
+## Libraries
+- bokeh
 
 ## Screenshots
 
